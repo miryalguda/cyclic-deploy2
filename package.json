@@ -4,7 +4,9 @@
   "description": "little tiers",
   "main": "http_server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"   
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "build": "npm install",
+    "start": "node http_server.js"
   },
   
   "repository": {
@@ -18,7 +20,7 @@
   },
   "homepage": "https://github.com/miryalguda/cyclic-deploy2#readme",
   "dependencies": {
-    "@faker-js/faker": "^7.4.0",
+    
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "faker": "^5.1.0",
