@@ -13,14 +13,14 @@
   }
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kogsio/littletiers.git"
+    "url": "git+https://github.com/miryalguda/cyclic-deploy2.git"
   },
   "author": "abel@mit.edu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kogsio/littletiers/issues"
+    "url": "https://github.com/miryalguda/cyclic-deploy2/issues"
   },
-  "homepage": "https://github.com/kogsio/littletiers#readme",
+  "homepage": "https://github.com/miryalguda/cyclic-deploy2#readme",
   "dependencies": {
     "@faker-js/faker": "^7.4.0",
     "cors": "^2.8.5",
