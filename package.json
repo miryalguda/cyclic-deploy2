@@ -11,14 +11,14 @@
   
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miryalguda/cyclic-deploy3.git"
+    "url": "git+https://github.com/miryalguda/cyclic-deploy2.git"
   },
   "author": "abel@mit.edu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/miryalguda/cyclic-deploy3/issues"
+    "url": "https://github.com/miryalguda/cyclic-deploy2/issues"
   },
-  "homepage": "https://github.com/miryalguda/cyclic-deploy3#readme",
+  "homepage": "https://github.com/miryalguda/cyclic-deploy2#readme",
   "dependencies": {
     
     "cors": "^2.8.5",
